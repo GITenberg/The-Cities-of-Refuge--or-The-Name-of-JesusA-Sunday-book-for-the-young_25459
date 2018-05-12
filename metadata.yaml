@@ -1,0 +1,32 @@
+_repo: The-Cities-of-Refuge--or-The-Name-of-JesusA-Sunday-book-for-the-young_25459
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Macduff, John R. (John Ross)
+    aliases:
+    - Macduff, J. R. (John Ross)
+    - Macduff, John Ross
+    birthdate: 1818
+    deathdate: 1895
+    gutenberg_agent_id: '8898'
+    url: http://www.gutenberg.org/2009/agents/8898
+description: ''
+gutenberg_issued: '2008-05-13'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '25459'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Cities and towns -- Palestine'
+- !lcc 'BV'
+- !lcsh 'Bible. Old Testament -- Geography'
+title: 'The Cities of Refuge: or, The Name of Jesus
+
+  A Sunday book for the young'
+url: http://www.gutenberg.org/ebooks/25459
